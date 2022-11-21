@@ -1,3 +1,12 @@
 body{
-background-color:#fafafa;
+/*background-color:red*/
+background-color:#fafafa
+}
+body{
+font-family:Arial,"MS Trebuchet",sans-serif
+}
+
+.logo{
+  width: 15vh;
+  height: auto;
 }
